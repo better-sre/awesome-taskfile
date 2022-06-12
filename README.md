@@ -34,9 +34,9 @@ Awesome Taskfiles
 
 | Github | Desc     | Rank       |
 | :--------------| :----------------- | :--------- |
-| [better-sre/config](https://github.com/better-sre/config/blob/main/Taskfile.yml#L14) | many scripts for developers | ⭐⭐⭐⭐⭐ |
-| [go-task/examples](https://github.com/go-task/examples/blob/master/go-web-app/Taskfile.yml) | official examples | ⭐⭐⭐⭐⭐ |
-| [iac-taskfile-framework](https://github.com/mhmdio/iac-taskfile-framework) | daily operations tasks and commands | ⭐⭐⭐⭐⭐ |
+| [better-sre/config](https://github.com/better-sre/config/blob/main/Taskfile.yml#L14) | many scripts for developers | ⭐⭐⭐ |
+| [go-task/examples](https://github.com/go-task/examples/blob/master/go-web-app/Taskfile.yml) | official examples | ⭐⭐⭐ |
+| [iac-taskfile-framework](https://github.com/mhmdio/iac-taskfile-framework) | daily operations tasks and commands | ⭐⭐⭐ |
 | xxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxx | xxxxxxxxxx |
 
 
