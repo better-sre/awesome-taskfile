@@ -27,7 +27,8 @@ Awesome Taskfiles
 
 > Search: 
 
-- https://github.com/topics/taskfile
+- [https://github.com/topics/taskfile](https://github.com/topics/taskfile?o=desc&s=stars)
+- https://sourcegraph.com/search?q=context:global+file:Taskfile.yml&patternType=literal
 
 
 > Collection:
